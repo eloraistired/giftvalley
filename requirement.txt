@@ -1,0 +1,11 @@
+// Order Form
+Name 
+Phone Number 
+Delivery Address 
+Receiver Phone Number: 
+Product Name: 
+Product Image (Upload Option) 
+Quentity 
+Budget Range: 
+PREFERRED DELIVERY DATE: 
+Requirement Note:
